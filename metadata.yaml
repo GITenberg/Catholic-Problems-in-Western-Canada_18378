@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7981'
     url: http://www.gutenberg.org/2009/agents/7981
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18378#Catholic-Problems-in-Western-Canada
 gutenberg_bookshelf:
 - Christianity
 - Canada
